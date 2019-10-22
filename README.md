@@ -7,4 +7,4 @@
 
 ## Build the frontend
 
-- The frontend is built using `vue` with the `vue-cli` utility to scaffold the project. you can build the project and start a dev server using `npm run dev`# avito-test
+- The frontend is built using `vue` with the `vue-cli` utility to scaffold the project. you can build the project and start a dev server using `npm run dev`
